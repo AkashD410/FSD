@@ -1,2 +1,3 @@
-let message='Hello Akash';
+let message='Welcome to kerala'
+
 console.log(message);
